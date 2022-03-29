@@ -1,0 +1,6 @@
+.DS_Store
+miniRT
+*.a
+*.rt
+*.o
+*.swp
